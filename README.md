@@ -52,17 +52,16 @@ I build **real-world production apps** — not just demo projects 🚀
 ### ☁️ Cloud
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
----
-
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Princeofnorth06&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Princeofnorth06&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Princeofnorth06&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=Princeofnorth06&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Princeofnorth06&layout=compact&theme=tokyonight&hide_border=true)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Princeofnorth06&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 # 👀 Profile Views
 
