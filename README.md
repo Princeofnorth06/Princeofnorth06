@@ -39,7 +39,7 @@ I build **real-world production apps** — not just demo projects 🚀
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Drift](https://img.shields.io/badge/Drift-Database-blue?style=for-the-badge)
 
-### ⚙️ Backend & Tools
+### ⚙️ Backend & Tools 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
