@@ -56,9 +56,11 @@ I build **real-world production apps** — not just demo projects 🚀
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Princeofnorth06&theme=tokyonight&hide_border=true&include_all_commits=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Princeofnorth06&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Princeofnorth06&theme=tokyonight&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Princeofnorth06&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=Princeofnorth06&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Princeofnorth06&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
